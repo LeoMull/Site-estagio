@@ -8,7 +8,7 @@
 <div class="topnav" id="myTopnav">
   <a href="index.php" class="menuLogo"><img src="./icones/logo LIGA 2.png" alt=""></a>
   <a href="contato.php" class="item0">CONTATO</a>  
-  <a href="orcamento.php" class="item">ORÇAMENTO</a>
+  <a href="orcamento.php" class="item">ORÇAMENTO</a>/*Página orçamento não fui publicada para evitar expor dados*/
   <a href="projetos.php" class="item">PROJETOS</a>
   <a href="atuacao.php" class="item">ÁREA DE ATUAÇÃO</a>
   <a href="nos.php" class="item">QUEM SOMOS</a>
